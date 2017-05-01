@@ -1,1 +1,10 @@
+Question 3. the error of the method scales as n^-1
 
+Question 4.
+ (i)to get odd points in the array
+      x=arange(10)
+      y=x[1::2]
+
+(ii)to get even points deleting the first an last
+    x=arange(10)
+    y=x[2:9:2]
