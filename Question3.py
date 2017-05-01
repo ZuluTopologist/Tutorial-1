@@ -7,9 +7,6 @@ Created on Sun Apr 30 11:19:53 2017
 
 import numpy
 import math
-from matplotlib import pyplot as plt
-
-
 
 N=[10,30,100,300,1000]
 for n in N:
